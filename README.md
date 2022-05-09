@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![profile/terrykim96](http://mazassumnida.wtf/api/v2/generate_badge?boj={terrykim96})](https://solved.ac/{terrykim96})
+[![profile/terrykim96](http://mazassumnida.wtf/api/v2/generate_badge?boj=terrykim96)](https://solved.ac/terrykim96)
